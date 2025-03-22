@@ -10,7 +10,7 @@ Entregable #1
 
 Lista de Entidades (Actualizada): 
 
-Tareas (Grabaciones/Imagen/etc)
+Tareas (Grabaciones/Imagen/etc)/n
 Usuarios
 Roles
 Permisos
