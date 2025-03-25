@@ -95,6 +95,8 @@ Este apartado de Logs lo que permite es llevar un registro de todo lo que sucede
 
 ---
 
+Queries 
+
 
 
 
