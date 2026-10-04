@@ -142,6 +142,6 @@ Cada consulta, con su explicación y su tabla de resultados, está en [`Document
 ---
 
 ## Aprendizaje
-* A diseñar una base de datos grande a partir de requerimientos: identificar entidades, separar catálogos de tablas principales y relacionarlas con llaves foráneas.
-* A pensar en seguridad desde el diseño (cifrado de contraseñas, tokenización de pagos y checksums).
-* A generar datos de prueba con procedimientos almacenados y a escribir consultas con múltiples `JOIN`, agrupaciones y funciones de fecha.
+* Diseño de una base de datos grande a partir de requerimientos: identificar entidades, separar catálogos de tablas principales y relacionarlas con llaves foráneas.
+* Seguridad desde el diseño (cifrado de contraseñas, tokenización de pagos y checksums).
+* Generar datos de prueba con procedimientos almacenados y a escribir consultas con múltiples `JOIN`, agrupaciones y funciones de fecha.
