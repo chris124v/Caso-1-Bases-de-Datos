@@ -1,4 +1,4 @@
-<h1 align="center">App Assistant – Base de Datos</h1>
+<h1 align="center">App Assistant – Bases de Datos I</h1>
 
 Diseño e implementación en MySQL de la base de datos de una *App Assistant AI*, basicamente una aplicación con asistente de inteligencia artificial que maneja usuarios, roles, pagos, suscripciones, archivos, logs y todo lo necesario para ejecutar tareas con IA. Incluye el modelo de datos, el script de creación de las tablas, el llenado de datos de prueba y consultas de análisis. Hecho para el curso Bases de Datos I (Caso #1).
 
